@@ -1,0 +1,34 @@
+1. ¿Qué es GIT?
+
+- Esun sistema de control de versiones distribuido y diseñado para manejar proyectos
+de cualquier tamaño con rapides y eficiencia, creado por Linus Torvalds en 2005 para el desarrollo de kernel de Linux y desde entonces se convirtio en una herramienta fundamental.
+
+
+2. ¿Cuáles son los comandos más importantes y para que sirven?
+
+-git init: Inicializa un nuevo repositorio Git.
+-git clone: Clona un repositorio existente.
+-git add: Agrega cambios al área de preparación.
+-git commit: Registra los cambios en el repositorio.
+-git push: Sube los cambios locales a un repositorio remoto.
+-git pull: Obtiene y fusiona cambios del repositorio remoto al repositorio local.
+-git checkout: Cambia entre ramas o restaura archivos.
+-git branch: Lista, crea o elimina ramas.
+-git merge: Fusiona una rama con otra.
+-git status: Muestra el estado actual del repositorio.
+-git log: Muestra el historial de commits.
+
+3. ¿Cuál es la diferencia entre Git y Github?
+
+- La diferencia seria que Git es un sistema de control de versiones distribuido, mientras
+su contraparte Github es una plataforma de alojamiento de repositorios de Git en la nube, donde cualquier usuario con acceso a internet y teniendo git puede subirlo a la nube.
+
+4. Enumere los comandos para subir cambios a un repositorio.
+
+-git add . (para agregar todos los cambios)
+-git commit -m "Mensaje descriptivo" (para confirmar los cambios)
+-git push origin <nombre-de-la-rama> (para subir los cambios al servidor remoto)
+
+5. ¿Qué es una branch  ?
+
+-Es una linea de desarrollo independiente que permite a los desarrolladores trabajar en paralelo sin interferir con la rama principal del proyecto ejemplo la rama "master" o "main".

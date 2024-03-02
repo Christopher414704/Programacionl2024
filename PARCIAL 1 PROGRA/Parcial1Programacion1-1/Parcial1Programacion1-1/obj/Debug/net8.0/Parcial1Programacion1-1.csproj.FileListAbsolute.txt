@@ -1,0 +1,14 @@
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\bin\Debug\net8.0\Parcial1Programacion1-1.exe
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\bin\Debug\net8.0\Parcial1Programacion1-1.deps.json
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\bin\Debug\net8.0\Parcial1Programacion1-1.runtimeconfig.json
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\bin\Debug\net8.0\Parcial1Programacion1-1.dll
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\bin\Debug\net8.0\Parcial1Programacion1-1.pdb
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\obj\Debug\net8.0\Parcial1Programacion1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\obj\Debug\net8.0\Parcial1Programacion1-1.AssemblyInfoInputs.cache
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\obj\Debug\net8.0\Parcial1Programacion1-1.AssemblyInfo.cs
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\obj\Debug\net8.0\Parcial1Programacion1-1.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\obj\Debug\net8.0\Parcial1Programacion1-1.dll
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\obj\Debug\net8.0\refint\Parcial1Programacion1-1.dll
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\obj\Debug\net8.0\Parcial1Programacion1-1.pdb
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\obj\Debug\net8.0\Parcial1Programacion1-1.genruntimeconfig.cache
+C:\Users\Cristofer Berganza\source\repos\Parcial1Programacion1-1\Parcial1Programacion1-1\obj\Debug\net8.0\ref\Parcial1Programacion1-1.dll

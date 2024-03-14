@@ -1,0 +1,22 @@
+/*
+ 
+Programa para Crear multiples cajas y hayar su Volumen y el Volumen Promedio
+
+
+1. Definir una Clase llamada Caja, donde definiremos sus propiedades tales como
+Alto, Ancho y Largo definiendo un metodo para encontrar el Volumen.
+
+2. Crear una Lista o Array de las Cajas y sus valores ingresadas por el usuario.
+
+3. A travez de un Console.ReadLine(); que el usuario introdusca las propiedades de las cajas
+por medio de un bucle, creando una instancia de la clase Caja con otras dimensiones, Agregando asi una instancia
+a la lista de cajas.
+
+4. Utilizar un bucle que almacenara los volumenes y los sumara para hacer el Volumen total.
+
+5. Dividir el numero de cajas con el Volumen total para obtener el Volumen Promedio.
+
+6.A traves de un Console.WriteLine(); Mostrar el Volumen total y el Volumen Promedio
+
+
+*/

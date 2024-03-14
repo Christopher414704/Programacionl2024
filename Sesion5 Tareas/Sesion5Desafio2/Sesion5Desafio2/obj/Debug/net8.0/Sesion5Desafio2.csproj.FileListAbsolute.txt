@@ -1,0 +1,14 @@
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\bin\Debug\net8.0\Sesion5Desafio2.exe
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\bin\Debug\net8.0\Sesion5Desafio2.deps.json
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\bin\Debug\net8.0\Sesion5Desafio2.runtimeconfig.json
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\bin\Debug\net8.0\Sesion5Desafio2.dll
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\bin\Debug\net8.0\Sesion5Desafio2.pdb
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\obj\Debug\net8.0\Sesion5Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\obj\Debug\net8.0\Sesion5Desafio2.AssemblyInfoInputs.cache
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\obj\Debug\net8.0\Sesion5Desafio2.AssemblyInfo.cs
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\obj\Debug\net8.0\Sesion5Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\obj\Debug\net8.0\Sesion5Desafio2.dll
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\obj\Debug\net8.0\refint\Sesion5Desafio2.dll
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\obj\Debug\net8.0\Sesion5Desafio2.pdb
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\obj\Debug\net8.0\Sesion5Desafio2.genruntimeconfig.cache
+C:\Users\Cristofer Berganza\source\repos\Sesion5Desafio2\Sesion5Desafio2\obj\Debug\net8.0\ref\Sesion5Desafio2.dll

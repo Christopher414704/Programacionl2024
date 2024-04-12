@@ -1,0 +1,14 @@
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\bin\Debug\net8.0\Semana9.exe
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\bin\Debug\net8.0\Semana9.deps.json
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\bin\Debug\net8.0\Semana9.runtimeconfig.json
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\bin\Debug\net8.0\Semana9.dll
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\bin\Debug\net8.0\Semana9.pdb
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\obj\Debug\net8.0\Semana9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\obj\Debug\net8.0\Semana9.AssemblyInfoInputs.cache
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\obj\Debug\net8.0\Semana9.AssemblyInfo.cs
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\obj\Debug\net8.0\Semana9.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\obj\Debug\net8.0\Semana9.dll
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\obj\Debug\net8.0\refint\Semana9.dll
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\obj\Debug\net8.0\Semana9.pdb
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\obj\Debug\net8.0\Semana9.genruntimeconfig.cache
+C:\Users\Cristofer Berganza\source\repos\Semana9\Semana9\obj\Debug\net8.0\ref\Semana9.dll

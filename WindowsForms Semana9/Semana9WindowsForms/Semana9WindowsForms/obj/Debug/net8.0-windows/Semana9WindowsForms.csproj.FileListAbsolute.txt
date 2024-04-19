@@ -1,0 +1,16 @@
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\bin\Debug\net8.0-windows\Semana9WindowsForms.exe
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\bin\Debug\net8.0-windows\Semana9WindowsForms.deps.json
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\bin\Debug\net8.0-windows\Semana9WindowsForms.runtimeconfig.json
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\bin\Debug\net8.0-windows\Semana9WindowsForms.dll
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\bin\Debug\net8.0-windows\Semana9WindowsForms.pdb
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\Semana9WindowsForms.Form1.resources
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\Semana9WindowsForms.csproj.GenerateResource.cache
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\Semana9WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\Semana9WindowsForms.AssemblyInfoInputs.cache
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\Semana9WindowsForms.AssemblyInfo.cs
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\Semana9WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\Semana9WindowsForms.dll
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\refint\Semana9WindowsForms.dll
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\Semana9WindowsForms.pdb
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\Semana9WindowsForms.genruntimeconfig.cache
+C:\Users\Cristofer Berganza\source\repos\Semana9WindowsForms\Semana9WindowsForms\obj\Debug\net8.0-windows\ref\Semana9WindowsForms.dll

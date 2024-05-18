@@ -1,0 +1,15 @@
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\EjercicioProgra1.csproj.AssemblyReference.cache
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\MainWindow.g.cs
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\App.g.cs
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\EjercicioProgra1_MarkupCompile.cache
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\EjercicioProgra1_MarkupCompile.lref
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\bin\Debug\EjercicioProgra1.exe.config
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\bin\Debug\EjercicioProgra1.exe
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\bin\Debug\EjercicioProgra1.pdb
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\MainWindow.baml
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\EjercicioProgra1.g.resources
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\EjercicioProgra1.Properties.Resources.resources
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\EjercicioProgra1.csproj.GenerateResource.cache
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\EjercicioProgra1.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\EjercicioProgra1.exe
+C:\Users\Cristofer\source\repos\EjercicioProgra1\EjercicioProgra1\obj\Debug\EjercicioProgra1.pdb
